@@ -1,4 +1,4 @@
-# Travel-Record
+# Travel-Record　未リリース
 思い出の写真をマップに保存できる
 
 # <画像1 匿名ログイン画面>
